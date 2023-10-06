@@ -5,7 +5,7 @@ const Header = () => {
      <>
        <div className="container flex">
          <div className="logo">
-	    <img src="./images/logo.png" alt="" />
+	    <img src="./public/rentitLogo.png" alt="" />
 	 </div>
        </div>
      </>
